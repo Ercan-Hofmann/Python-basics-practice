@@ -28,3 +28,8 @@ Run the program from the terminal:
 ```bash
 python number_comparison.py
 ```
+## Program Output
+
+The screenshot below shows a successful run of the Number Comparison Program.
+
+![Number Comparison Program Output](Skjermbilde%202026-10-09%20kl.%2005.30.27.png)
